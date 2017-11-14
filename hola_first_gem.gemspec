@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.date        = '2017-11-13'
   s.summary     = "Hola First Gem!"
   s.description = "A simple hello world gem"
-  s.authors     = ["Alan Yeh"]
+  s.author      = "Alan Yeh"
   s.email       = 'alanyeh200001@gmail.com'
   s.files       = ["lib/hola_first_gem.rb", "lib/hola_first_gem/translator.rb"]
   s.license     = 'MIT'
