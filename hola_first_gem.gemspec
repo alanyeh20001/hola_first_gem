@@ -7,5 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Alan Yeh"]
   s.email       = 'alanyeh200001@gmail.com'
   s.files       = ["lib/hola_first_gem.rb", "lib/hola_first_gem/translator.rb"]
-  s.license       = 'MIT'
+  s.license     = 'MIT'
+  s.homepage    = 'https://github.com/alanyeh20001/hola_first_gem'
 end
